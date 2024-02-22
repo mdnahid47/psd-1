@@ -1,0 +1,143 @@
+#navigation a{
+    font-size: 22pt;
+    font-family: "PT Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    
+}
+#carousel-1 p{
+    font-size: 16pt;
+    color: gray;
+    font-family: "PT Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#carousel-1 h1{
+    font-size: 32pt;
+    font-family: "PT Sans", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+#carousel-1 h3{
+    font-size: 20pt;
+    font-family: "PT Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#carouselExampleIndicators{
+    padding-bottom: 60px;
+}
+
+
+#top-page{
+    background-color: #fcdb00;
+}
+
+
+#button-1{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
+#button-2{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
+#button-3{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%; 
+}
+
+
+.features-area{
+    margin-top: 120px;
+}
+.features-area h1{
+    font-size: 32pt;
+    font-family: "PT Sans", sans-serif;
+    font-weight: 700;
+}
+
+.features-area p{
+    font-size: 20pt;
+    font-family: "PT Sans", sans-serif;
+    font-weight: 400;
+}
+/*  */
+.service-img img{
+    margin-top: 2px;
+}
+.service-text h1{
+    font-size: 22pt;
+    font-family: "PT Sans", sans-serif;
+    font-weight: 700;
+}
+.service-text p{
+    font-size: 16pt;
+    font-family: "PT Sans", sans-serif;
+    font-weight: 400;
+}
+.service-area{
+    margin-top: 80px;
+}
+
+.support-area{
+    background-color: #232527;
+    margin-top: 155px;
+}
+
+
+
+.support h1{
+    margin-top: 90px;
+    font-size: 32pt;
+    color: #fcdb00;
+    font-family: "PT Sans", sans-serif;
+    font-weight: 700;
+}
+
+.support p{
+    margin-top: 20px;
+    font-size: 20pt;
+    color: white;
+    font-family: "PT Sans", sans-serif;
+    font-weight: 400;
+}
+.input-btn input{
+    width: 580px;
+    height: 50px;
+    border-radius:5px;
+    border: none;
+}
+.submit-btn {
+    width: 125px;
+    height: 50px;
+    background-color: #fcdb00;
+    border-radius: 5px;
+    color: black;
+    font-size: 20pt;
+    font-family: "PT Sans", sans-serif;
+    font-weight: 400;
+    border: none;
+    margin-left: 30px;
+   
+    
+}
+.icon-area img{
+    margin:80px 20px;
+}
+.footer-area {
+    color: white;
+    font-size: 16pt;
+}
+
+.footer-area a{
+    margin: 125px;
+    text-decoration: none;
+    color: white;
+}

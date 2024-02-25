@@ -1,3 +1,12 @@
+html,body{
+    height: 100%;
+    width: 100%;
+    margin:0 ;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+
 #navigation a{
     font-size: 22pt;
     font-family: "PT Sans", sans-serif;
@@ -134,10 +143,38 @@
 .footer-area {
     color: white;
     font-size: 16pt;
+    display: flex;
+}
+.support-list{
+    display: flex;
+   
 }
 
 .footer-area a{
     margin: 125px;
     text-decoration: none;
     color: white;
+}
+
+
+@media (max-width : 768px) {
+     .support p {
+        width: 80%;
+    }
+    .input-btn input{
+        width: 250px;
+    }
+
+   .col-md-5 img{
+    margin-top: 30px;
+   }
+  .footer-area{
+    flex-direction: column;
+  }
+  .support-list {
+    flex-direction: column;
+    
+  }
+ 
+    
 }
